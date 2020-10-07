@@ -4,7 +4,9 @@
 ### Built with [Apache-Maven 3.6.3](http://maven.apache.org/download.cgi)
 ### To run it on Windows:
 #### Open up git-bash and run: <pre>./bin/neo4j.sh console</pre> or run <pre>bin\neo4j console</pre> from your command prompt (cmd)
+#### Proceed to browse to http://localhost:7474/browser/ to its home page.
 
+<hr>
 ### Neo4j 3.5.22-SNAPSHOT
 Welcome to Neo4j release 3.5.22-SNAPSHOT, a high-performance graph database.<br>
 This is the **community distribution of Neo4j**, including everything you need to start building applications that can model, persist and explore graph-like data.
