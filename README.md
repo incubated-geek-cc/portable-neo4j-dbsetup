@@ -13,7 +13,8 @@
 <br>![Sample Movie Graph](https://github.com/incubated-geek-cc/portable-neo4j-dbsetup/blob/main/img/preview_movie_graph.png)
 
 <hr>
-### Neo4j 3.5.22-SNAPSHOT
+<br>
+#### Neo4j 3.5.22-SNAPSHOT
 Welcome to Neo4j release 3.5.22-SNAPSHOT, a high-performance graph database.<br>
 This is the **community distribution of Neo4j**, including everything you need to start building applications that can model, persist and explore graph-like data.
 
