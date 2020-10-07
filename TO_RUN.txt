@@ -1,0 +1,2 @@
+Open up git-bash and run:
+./bin/neo4j.sh console
