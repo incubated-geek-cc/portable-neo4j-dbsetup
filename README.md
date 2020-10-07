@@ -6,6 +6,12 @@
 #### Open up git-bash and run: <pre>./bin/neo4j.sh console</pre> or run <pre>bin\neo4j console</pre> from your command prompt (cmd)
 #### Proceed to browse to http://localhost:7474/browser/ to its home page.
 
+#### In-built browser tutorials:
+**Getting Started**
+<br>![Getting Started](https://github.com/incubated-geek-cc/portable-neo4j-dbsetup/blob/main/img/preview_getting_started.png)
+<br>**User-Friendly Interface & In-build JavaScript library to visualise Nodes & Links:**
+<br>![Sample Movie Graph](https://github.com/incubated-geek-cc/portable-neo4j-dbsetup/blob/main/img/preview_movie_graph.png)
+
 <hr>
 ### Neo4j 3.5.22-SNAPSHOT
 Welcome to Neo4j release 3.5.22-SNAPSHOT, a high-performance graph database.<br>
